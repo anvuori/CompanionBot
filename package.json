@@ -1,0 +1,12 @@
+{
+  "name": "CompanionBot",
+  "version": "1.0.0",
+  "description": "Bot that gives you some love.",
+  "main": "bot.js",
+  "author": "Anna Vuori",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "https": "^1.0.0",
+    "winston": "^3.0.0"
+  }
+}
